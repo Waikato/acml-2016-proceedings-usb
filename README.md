@@ -1,4 +1,4 @@
-# ACML 2016
+# ACML 2016 (Proceedings on USB stick)
 
 Code for generating the web-based interface for ACML 2016 proceedings
 (to be stored in a USB stick).
