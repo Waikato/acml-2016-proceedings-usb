@@ -38,7 +38,7 @@ To check all available commands:
 ## Content
 
 The articles of the proceedings and program (in PDF format) go in the 
-following directory:
+following directory (the articles themselves are not part of the repository):
 ```
 files/pdfs
 ```
