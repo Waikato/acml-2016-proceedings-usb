@@ -1,7 +1,7 @@
 # ACML 2016 (Proceedings on USB stick)
 
 Code for generating the web-based interface for ACML 2016 proceedings
-(to be stored in a USB stick).
+(to be stored on a USB stick).
 Uses [Nikola](https://getnikola.com/) static site generator.
 
 Website/code is released under [CC-BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/).
