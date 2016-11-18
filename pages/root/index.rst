@@ -29,125 +29,62 @@ The conference program is available `here </pdfs/ACML2016_program.pdf>`__.
 Proceedings
 ===========
 
-.. raw:: html
+* **A Bayesian Nonparametric Approach for Multi-label Classification** - Vu Nguyen, Sunil Gupta, Santu Rana, Cheng Li, Svetha Venkatesh `[pdf] </pdfs/nguyen93.pdf>`__ `[supp] </pdfs/nguyen93-supp.pdf>`__
 
-   <ul class="simple">
+* **An Efficient Approach for Multi-Sentence Compression** - Elahe Shafiei, Mohammad Ebrahimi, Raymond K. Wong, Fang Chen `[pdf] </pdfs/ShafieiBavani24.pdf>`__
 
-   <li>
-   <strong>A Bayesian Nonparametric Approach for Multi-label Classification</strong> - Vu Nguyen, Sunil Gupta, Santu Rana, Cheng Li, Svetha Venkatesh <a href="/pdfs/nguyen93.pdf">[pdf]</a> <a href="/pdfs/nguyen93-supp.pdf">[supp]</a>
-   </li>
+* **Bank of Weight Filters for Deep CNNs** - Suresh Kirthi Kumaraswamy, PS Sastry, Kalpathi Ramakrishnan `[pdf] </pdfs/kumaraswamy29.pdf>`__
 
-   <li>
-   <strong>An Efficient Approach for Multi-Sentence Compression</strong> - Elahe Shafiei, Mohammad Ebrahimi, Raymond K. Wong, Fang Chen <a href="/pdfs/ShafieiBavani24.pdf">[pdf]</a>
-   </li>
+* **Collaborative Recurrent Neural Networks for Dynamic Recommender Systems** - Young-Jun Ko, Lucas Maystre, Matthias Grossglauser `[pdf] </pdfs/ko101.pdf>`__
 
-   <li>
-   <strong>Bank of Weight Filters for Deep CNNs</strong> - Suresh Kirthi Kumaraswamy, PS Sastry, Kalpathi Ramakrishnan <a href="/pdfs/kumaraswamy29.pdf">[pdf]</a>
-   </li>
+* **Cost Sensitive Online Multiple Kernel Classification** - Doyen  Sahoo, Steven Hoi, Peilin Zhao `[pdf] </pdfs/sahoo56.pdf>`__
 
-   <li>
-   <strong>Collaborative Recurrent Neural Networks for Dynamic Recommender Systems</strong> - Young-Jun Ko, Lucas Maystre, Matthias Grossglauser <a href="/pdfs/ko101.pdf">[pdf]</a>
-   </li>
+* **Deep Gate Recurrent Neural Network** - Yuan Gao, Dorota Glowacka `[pdf] </pdfs/gao30.pdf>`__
 
-   <li>
-   <strong>Cost Sensitive Online Multiple Kernel Classification</strong> - Doyen  Sahoo, Steven Hoi, Peilin Zhao <a href="/pdfs/sahoo56.pdf">[pdf]</a>
-   </li>
+* **Echo State Hoeffding Tree Learning** - Diego  Marron, Jesse Read, Albert Bifet, Talel Abdessalem, Eduard Ayguade, José Herrero `[pdf] </pdfs/Marron87.pdf>`__
 
-   <li>
-   <strong>Deep Gate Recurrent Neural Network</strong> - Yuan Gao, Dorota Glowacka <a href="/pdfs/gao30.pdf">[pdf]</a>
-   </li>
+* **EcoICA: Skewness-based ICA via Eigenvectors of Cumulant Operator** - Liyan Song, Haiping Lu `[pdf] </pdfs/Song94.pdf>`__
 
-   <li>
-   <strong>Echo State Hoeffding Tree Learning</strong> - Diego  Marron, Jesse Read, Albert Bifet, Talel Abdessalem, Eduard Ayguade, José Herrero <a href="/pdfs/Marron87.pdf">[pdf]</a>
-   </li>
+* **Enhancing Topic Modeling on Short Texts with Crowdsourcing** - Xiaoyan Yang, Shanshan Ying, Wenzhe Yu, Rong Zhang, Zhenjie Zhang `[pdf] </pdfs/yang54.pdf>`__
 
-   <li>
-   <strong>EcoICA: Skewness-based ICA via Eigenvectors of Cumulant Operator</strong> - Liyan Song, Haiping Lu <a href="/pdfs/Song94.pdf">[pdf]</a>
-   </li>
+* **Fast Collaborative Filtering from Implicit Feedback with Provable Guarantees** - Sayantan Dasgupta `[pdf] </pdfs/Dasgupta79.pdf>`__ `[supp] </pdfs/Dasgupta79-supp.pdf>`__
 
-   <li>
-   <strong>Enhancing Topic Modeling on Short Texts with Crowdsourcing</strong> - Xiaoyan Yang, Shanshan Ying, Wenzhe Yu, Rong Zhang, Zhenjie Zhang <a href="/pdfs/yang54.pdf">[pdf]</a>
-   </li>
+* **Geometry-aware stationary subspace analysis** - Inbal Horev, Florian Yger, Masashi Sugiyama `[pdf] </pdfs/Horev84.pdf>`__
 
-   <li>
-   <strong>Fast Collaborative Filtering from Implicit Feedback with Provable Guarantees</strong> - Sayantan Dasgupta <a href="/pdfs/Dasgupta79.pdf">[pdf]</a> <a href="/pdfs/Dasgupta79-supp.pdf">[supp]</a>
-   </li>
+* **Hierarchical Probabilistic Matrix Factorization with Network Topology for Multi-relational Social Network** - Haoli Bai, Zenglin Xu, Bin Liu, Yingming Li `[pdf] </pdfs/bai103.pdf>`__
 
-   <li>
-   <strong>Geometry-aware stationary subspace analysis</strong> - Inbal Horev, Florian Yger, Masashi Sugiyama <a href="/pdfs/Horev84.pdf">[pdf]</a>
-   </li>
+* **Improving Distributed Word Representation and Topic Model by Word-Topic Mixture Model** - Xianghua Fu, Ting Wang, Jing Li, Chong Yu, Wangwang Liu `[pdf] </pdfs/Fu60.pdf>`__
 
-   <li>
-   <strong>Hierarchical Probabilistic Matrix Factorization with Network Topology for Multi-relational Social Network</strong> - Haoli Bai, Zenglin Xu, Bin Liu, Yingming Li <a href="/pdfs/bai103.pdf">[pdf]</a>
-   </li>
+* **Learnability of Non-I.I.D.** - Wei Gao, Xin-Yi Niu, Zhi-Hua Zhou `[pdf] </pdfs/Gao09.pdf>`__
 
-   <li>
-   <strong>Improving Distributed Word Representation and Topic Model by Word-Topic Mixture Model</strong> - Xianghua Fu, Ting Wang, Jing Li, Chong Yu, Wangwang Liu <a href="/pdfs/Fu60.pdf">[pdf]</a>
-   </li>
+* **Learning Distance Metrics for Multi-Label Classification** - Henry Gouk, Bernhard Pfahringer, Michael Cree `[pdf] </pdfs/Gouk8.pdf>`__
 
-   <li>
-   <strong>Learnability of Non-I.I.D.</strong> - Wei Gao, Xin-Yi Niu, Zhi-Hua Zhou <a href="/pdfs/Gao09.pdf">[pdf]</a>
-   </li>
+* **Learning Feature Aware Metric** - Han-Jia Ye, De-Chuan Zhan, Xue-Min Si, Yuan Jiang `[pdf] </pdfs/ye4.pdf>`__
 
-   <li>
-   <strong>Learning Distance Metrics for Multi-Label Classification</strong> - Henry Gouk, Bernhard Pfahringer, Michael Cree <a href="/pdfs/Gouk8.pdf">[pdf]</a>
-   </li>
+* **Learning from Survey Training Samples: Rate Bounds for Horvitz-Thompson Risk Minimizers** - Stephan Clemencon, Patrice Bertail, Guillaume Papa `[pdf] </pdfs/clemencon64.pdf>`__
 
-   <li>
-   <strong>Learning Feature Aware Metric</strong> - Han-Jia Ye, De-Chuan Zhan, Xue-Min Si, Yuan Jiang <a href="/pdfs/ye4.pdf">[pdf]</a>
-   </li>
+* **Linearized Alternating Direction Method of Multipliers for Constrained Nonconvex Regularized Optimization** - Linbo Qiao, Bofeng Zhang, Jinshu Su, Xicheng Lu `[pdf] </pdfs/qiao37.pdf>`__ `[supp] </pdfs/qiao37-supp.pdf>`__
 
-   <li>
-   <strong>Learning from Survey Training Samples: Rate Bounds for Horvitz-Thompson Risk Minimizers</strong> - Stephan Clemencon, Patrice Bertail, Guillaume Papa <a href="/pdfs/clemencon64.pdf">[pdf]</a>
-   </li>
+* **Localized Multiple Kernel Learning---A Convex Approach** - Yunwen Lei, Alexander Binder, Urun Dogan, Marius Kloft `[pdf] </pdfs/lei63.pdf>`__
 
-   <li>
-   <strong>Linearized Alternating Direction Method of Multipliers for Constrained Nonconvex Regularized Optimization</strong> - Linbo Qiao, Bofeng Zhang, Jinshu Su, Xicheng Lu <a href="/pdfs/qiao37.pdf">[pdf]</a> <a href="/pdfs/qiao37-supp.pdf">[supp]</a>
-   </li>
+* **Long Short-term Memory Network over Rhetorical Structure Theory for Sentence-level Sentiment Analysis** - Xianghua Fu, Wangwang Liu, Yingying Xu, Chong Yu, Ting Wang `[pdf] </pdfs/Fu62.pdf>`__
 
-   <li>
-   <strong>Localized Multiple Kernel Learning---A Convex Approach</strong> - Yunwen Lei, Alexander Binder, Urun Dogan, Marius Kloft <a href="/pdfs/lei63.pdf">[pdf]</a>
-   </li>
+* **Modelling Symbolic Music: Beyond the Piano Roll** - Christian Walder `[pdf] </pdfs/walder88.pdf>`__
 
-   <li>
-   <strong>Long Short-term Memory Network over Rhetorical Structure Theory for Sentence-level Sentiment Analysis</strong> - Xianghua Fu, Wangwang Liu, Yingying Xu, Chong Yu, Ting Wang <a href="/pdfs/Fu62.pdf">[pdf]</a>
-   </li>
+* **Multiple Kernel Learning with Data Augmentation** - Khanh Nguyen, Trung Le, Vu Nguyen, Tu Nguyen, Dinh  Phung `[pdf] </pdfs/nguyen19.pdf>`__
 
-   <li>
-   <strong>Modelling Symbolic Music: Beyond the Piano Roll</strong> - Christian Walder <a href="/pdfs/walder88.pdf">[pdf]</a>
-   </li>
+* **Multitask Principal Component Analysis** - Ikko Yamane, Florian Yger, Maxime Berar, Masashi Sugiyama `[pdf] </pdfs/yamane65.pdf>`__
 
-   <li>
-   <strong>Multiple Kernel Learning with Data Augmentation</strong> - Khanh Nguyen, Trung Le, Vu Nguyen, Tu Nguyen, Dinh  Phung <a href="/pdfs/nguyen19.pdf">[pdf]</a>
-   </li>
+* **Non-Linear Smoothed Transductive Network Embedding with Text Information** - Weizheng Chen, Xia Zhang, Jinpeng Wang, Yan Zhang, Hongfei Yan, Xiaoming Li `[pdf] </pdfs/chen115.pdf>`__
 
-   <li>
-   <strong>Multitask Principal Component Analysis</strong> - Ikko Yamane, Florian Yger, Maxime Berar, Masashi Sugiyama <a href="/pdfs/yamane65.pdf">[pdf]</a>
-   </li>
+* **Proper Inner Product with Mean Displacement for Gaussian Noise Invariant ICA** - Liyan Song, Haiping Lu `[pdf] </pdfs/Song106.pdf>`__
 
-   <li>
-   <strong>Non-Linear Smoothed Transductive Network Embedding with Text Information</strong> - Weizheng Chen, Xia Zhang, Jinpeng Wang, Yan Zhang, Hongfei Yan, Xiaoming Li <a href="/pdfs/chen115.pdf">[pdf]</a>
-   </li>
+* **Random Fourier Features For Operator-Valued Kernels** - Romain Brault, Markus Heinonen, Florence d'Alché Buc `[pdf] </pdfs/Brault39.pdf>`__ `[supp] </pdfs/Brault39-supp.pdf>`__
 
-   <li>
-   <strong>Proper Inner Product with Mean Displacement for Gaussian Noise Invariant ICA</strong> - Liyan Song, Haiping Lu <a href="/pdfs/Song106.pdf">[pdf]</a>
-   </li>
+* **Secure Approximation Guarantee for Cryptographically Private Empirical Risk Minimization** - Toshiyuki Takada, Hiroyuki Hanada, Yoshiji Yamada, Jun Sakuma, Ichiro Takeuchi `[pdf] </pdfs/takada48.pdf>`__
 
-   <li>
-   <strong>Random Fourier Features For Operator-Valued Kernels</strong> - Romain Brault, Markus Heinonen, Florence d'Alché Buc <a href="/pdfs/Brault39.pdf">[pdf]</a> <a href="/pdfs/Brault39-supp.pdf">[supp]</a>
-   </li>
+* **Simulation and Calibration of a Fully Bayesian Marked Multidimensional Hawkes Process with Dissimilar Decays** - Kar Wai Lim, Young Lee, Leif Hanlen, Hongbiao Zhao `[pdf] </pdfs/lim83.pdf>`__
 
-   <li>
-   <strong>Secure Approximation Guarantee for Cryptographically Private Empirical Risk Minimization</strong> - Toshiyuki Takada, Hiroyuki Hanada, Yoshiji Yamada, Jun Sakuma, Ichiro Takeuchi <a href="/pdfs/takada48.pdf">[pdf]</a>
-   </li>
+* **Unifying Topic, Sentiment & Preference in an HDP-Based Rating Regression Model for Online Reviews** - Zheng Chen, Yong Zhang, Yue Shang, Xiaohua Hu `[pdf] </pdfs/chen33.pdf>`__
 
-   <li>
-   <strong>Simulation and Calibration of a Fully Bayesian Marked Multidimensional Hawkes Process with Dissimilar Decays</strong> - Kar Wai Lim, Young Lee, Leif Hanlen, Hongbiao Zhao <a href="/pdfs/lim83.pdf">[pdf]</a>
-   </li>
-
-   <li>
-   <strong>Unifying Topic, Sentiment & Preference in an HDP-Based Rating Regression Model for Online Reviews</strong> - Zheng Chen, Yong Zhang, Yue Shang, Xiaohua Hu <a href="/pdfs/chen33.pdf">[pdf]</a>
-   </li>
-
-   </ul>
 
