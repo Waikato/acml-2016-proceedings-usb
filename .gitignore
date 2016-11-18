@@ -1,0 +1,12 @@
+# general
+*~
+*.swp
+*.bak
+
+# python
+__pycache__
+
+# nikola
+.doit.db
+output
+cache
