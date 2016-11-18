@@ -35,3 +35,16 @@ To check all available commands:
     nikola help
 ```
 
+## Content
+
+The articles of the proceedings and program (in PDF format) go in the 
+following directory:
+```
+files/pdfs
+```
+
+These PDFs are reference from the following page:
+```
+pages/root/index.rst
+```
+
